@@ -26,16 +26,24 @@
 
   }
 
+.privacy-text p {
+      margin: 5px;
+      color: #024e76;
+      padding: 10px;
+      border-radius: 5px;
+}
+
+
 .secondary-content {
     width: 80%;
     margin: center;
     color: #024e76;
-
 }
 
-.h3 {
+.privacy-text h3 {
     font-size: 25px;
-    margin: 20 0 20 0;
+    margin: 5px;
+    color:  #024e76;
 }
 
 .secondary-content p {
@@ -45,7 +53,7 @@
 }
 
 .secondary-content ul {
-    margin: 15 20 15 20;
+    margin: 30px;
 }
 
 .secondary-content li {
@@ -53,4 +61,6 @@
     margin: 10 0 10 0;
 }
 
-
+.privacy-text li {
+    margin: 30px;
+}
