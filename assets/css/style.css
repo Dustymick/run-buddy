@@ -209,11 +209,7 @@ h3 {
 }
 
 /* trainers part first trainer */
-.your-trainers {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
+
 
 .trainers {
   width: 100%;
@@ -230,17 +226,12 @@ h3 {
   flex: 1;
 }
 
-.trainer-img {
-  width: 35%;
-  float: left;
-  overflow: auto;
+.trainer img {
+  width: 100%;
 }
 
 .trainer-bio {
   padding: 35px;
-  float: left;
-  width: 65%;
-  overflow: auto;
   line-height: 1.3;
 }
 
